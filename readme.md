@@ -2,17 +2,17 @@
 <h3 align="center">Diving Deep into Quantum Technology: A Multidisciplinary Technologist Proficient in Python, Java, C, and JavaScript. Skilled in Front-End Development with HTML, CSS, and Tailwind, and Back-End Development using Flask, Node.js, PostgreSQL, and MySQL. Experienced with Hardware Programming on Arduino, Version Control with Git, API Development with FastAPI, and Scripting with Bash. Committed to advancing Cybersecurity, Leveraging Linux, and Developing Intelligent Solutions with AI, ML, Deep Learning, and Microcontrollers. Passionate about Innovating with Spring Boot and Exploring the Potentials of Quantum Computing.</h3>
 
 
-- 🌱 I’m currently learning **Quantum Computing**
+<!-- - 🌱 I’m currently learning **Quantum Computing** -->
 
-- 📫 How to reach me **sahilgoyal7214@gmail.com**
+<!--  - 📫 How to reach me **sahilgoyal7214@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 
-[(./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[(./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sahil-goyal-1a731124a/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sahil-goyal-1a731124a/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[(./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[(./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 
 <h3 align="left">Languages and Tools:</h3>
