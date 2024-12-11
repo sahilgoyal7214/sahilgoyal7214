@@ -1,14 +1,14 @@
 # 💫 About Me:
 <br>I am a multidisciplinary technologist passionate about building innovative and impactful solutions. With a strong foundation in software and hardware development, 
 I continually expand my expertise to explore cutting-edge technologies.<br>
-- Programming Languages: Proficient in Python, Java, C, JavaScript, and Bash scripting.
-- Web Development: Crafting dynamic user interfaces with React.js, Next.js, HTML, CSS, and Tailwind CSS.
-- Mobile Development: Developing robust mobile apps with React Native (Expo).
-- Back-End & Cloud: Experienced in Flask, Node.js, FastAPI, PostgreSQL, MySQL, cloud instance deployment, and AWS Lambda services.
-- Hardware Programming: Proficient in Arduino and microcontroller programming.
-- AI, ML & Quantum Computing: Innovating with artificial intelligence, machine learning, and quantum technologies.
-- Cybersecurity & Linux: Fostering secure and efficient computing environments.
-- DevOps & Version Control: Skilled in Git and cloud-based deployments for streamlined workflows.
+- **Programming Languages**: Proficient in Python, Java, C, JavaScript, and Bash scripting.
+- **Web Development**: Crafting dynamic user interfaces with React.js, Next.js, HTML, CSS, and Tailwind CSS.
+- **Mobile Development**: Developing robust mobile apps with React Native (Expo).
+- **Back-End & Cloud**: Experienced in Flask, Node.js, FastAPI, PostgreSQL, MySQL, cloud instance deployment, and AWS Lambda services.
+- **Hardware Programming**: Proficient in Arduino and microcontroller programming.
+- **AI, ML & Quantum Computing**: Innovating with artificial intelligence, machine learning, and quantum technologies.
+- **Cybersecurity & Linux**: Fostering secure and efficient computing environments.
+- **DevOps & Version Control**: Skilled in Git and cloud-based deployments for streamlined workflows.
 
 I am eager to collaborate on challenging projects that integrate my skills in software, hardware, and cloud technologies to drive meaningful impact. Let’s innovate together!
 
@@ -30,6 +30,10 @@ I am eager to collaborate on challenging projects that integrate my skills in so
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<!-- [![](https://visitcount.itsvg.in/api?id=sahilgoyal7214&icon=0&color=0)](https://visitcount.itsvg.in) -->
+ [![](https://visitcount.itsvg.in/api?id=sahilgoyal7214&icon=0&color=0)](https://visitcount.itsvg.in) 
+
+![](https://komarev.com/ghpvc/?username=sahilgoyal7214)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilgoyal7214&label=Profile%20views&color=0e75b6&style=flat" alt="sahilgoyal7214" /> </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
